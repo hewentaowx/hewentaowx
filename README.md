@@ -3,6 +3,6 @@
 
 ### 👋 Hi! everybody, I'm hewentao
 
-- 💻 I'm back end developer and I'm target is full stack developer
-- 📚 I'm good at nodejs，javascript，typescript，I cna use vue and I'm studying react
+- 💻 I'm Back End Developer, I'm target is Full Stack Developer
+- 📚 I'm good at NodeJs, JS, TS, I can use Vue and I'm studying React
 
