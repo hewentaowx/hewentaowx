@@ -7,6 +7,7 @@
 - 📚 I’m currently learning **Vue, React, Node, JavaScript, TypeScript**
 - 👨‍💻 My Wechat is [hewentao527](hewentao527)
 
+<br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://www.w3schools.com/css/" target="_blank">
